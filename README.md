@@ -1,4 +1,4 @@
-# 📝 To-Do List Web App
+# 📝 To-Do List Web App Using Javascript
 
 A simple and responsive To-Do List application built with **HTML**, **CSS**, and **JavaScript**. It allows users to:
 
