@@ -13,10 +13,8 @@ A simple and responsive To-Do List application built with **HTML**, **CSS**, and
 
 ## 🚀 Live Demo
 
-You can run the project by opening the `demo.html` file in your browser.  
+You can run the project by opening the `index.html` file in your browser.  
 (Optional: You can deploy this on GitHub Pages for live access.)
 
 ---
-
-## 📂 Project Structure
 
